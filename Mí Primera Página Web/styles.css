@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.title{
+    font-size: 60px;
+    color: azure;
+    
+    
+    
+}
+.title:hover{
+    background-color: brown;
+    transition: 2s;
+    cursor: crosshair;
+    filter: contrast(120%);
+    
+}
+
+.text{ 
+    font-size: 20px;
+    color: azure;
+    padding: 2dvb;
+}
+
+#principal{
+    font-size: 75px;
+    
+}
+.logo{
+    width: 780px;
+   
+   
+}
+.footer{
+    font-size: 20px;
+    margin: 4px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+a{
+    font-size: 20px;
+    margin: 4px;
+    color: rgb(56, 100, 138);
+    display: flex;
+    justify-content: center;
+}
+
+    
+h2 {
+    display: flex;
+    justify-content: center;
+   
+    
+}
+h2:hover{
+    transform: scale(1);
+    background-color: rgb(51, 35, 143);
+    transition: 1.5s;
+   
+}

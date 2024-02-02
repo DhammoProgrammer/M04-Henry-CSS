@@ -1,0 +1,39 @@
+.fondo{
+    background-color: black;
+}
+.text{
+    font-size: 20px;
+    color: aliceblue;
+}
+#principal{
+    display: flex;
+    align-items: baseline;
+    font-size: 50px;
+    color: aliceblue;
+}
+.img{
+    width: 300px;
+  
+}
+.h1{
+    font-size: 45px;
+    color: aliceblue;
+}
+h1:hover{
+    transition: 1.2s;
+    background-color: rgb(199, 48, 93);
+   
+
+}
+.list{
+    font-size: 35px;
+}
+h2{
+    font-size: 37px;
+    color: aliceblue;
+}
+h2:hover{
+    transform:scale(0.9);
+    transition: 1.2s;
+    background-color: rgb(199, 48, 93);
+}
